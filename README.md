@@ -1,14 +1,18 @@
-# BHOP SCRIPT FOR CS2
+# CS2 CHEATS
 made in python
 
 ## _Warning_
-This script contains offsets that might get changer in later updates, I will try to maintain the script as much as possible so if the script outputs an error or it doesnt work, please check [this repo](https://github.com/a2x/cs2-dumper/blob/main/output/offsets.cs) and update the offsets yourself (or wait for me to do it).
+This is for **education purposes only**. Please use this script in a safe environement. **_Be careful!_** these scripts may not always be undetectable to VAC, preferabily do not use them on your main account.
 
 ## Tutorial
-1. Download _pymem_ and _pywin32_ : 
+1. Download _requests_, _pymem_ and _pywin32_ : 
+   ```pip install requests```
    ``` pip install pymem ```
    ``` pip install pywin32 ```
-2. Download [bhop.py](https://github.com/mybRset/bhop-in-python/blob/main/bhop.py)
-3. Open cs2
-4. Run the script by running ``` py bhop.py ```_(you might need to direct your terminal to your folder)_
-5. Now, enjoy bhopping while pressing the _spacebar_
+3. Download any [script](https://github.com/mybRset/python-cheats-cs2) you want
+4. Open cs2
+5. Run the script (eg. bhop) in the terminal by running ``` py bhop.py ```_(you might need to redirect your terminal to the right folder)_
+6. Now, enjoy you cheats!
+
+### Extra
+
