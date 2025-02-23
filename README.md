@@ -14,5 +14,8 @@ This is for **education purposes only**. Please use this script in a safe enviro
 5. Run the script (eg. bhop) in the terminal by running ``` py bhop.py ```_(you might need to redirect your terminal to the right folder)_
 6. Now, enjoy you cheats!
 
-### Extra
+### Use
+**BHOP**: while holding the _spacebar_ _(I recomend using scrollwheeldown for jumping)_
+**TRIGGERBOT**: while holding _right mouse button_
+**GLOW_ESP**: toggle with _F9_
 
