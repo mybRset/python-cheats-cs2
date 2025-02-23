@@ -23,4 +23,4 @@ This is for **educational purposes only**. Please use this script in a **safe en
 - **BHOP**: While holding the _spacebar_ (or use _scroll wheel down_ for jumping).
 - **TRIGGERBOT**: While holding the _right mouse button_.
 - **GLOW_ESP**: Toggle with the _F9_ key.
-
+- **ANTI_FLASH_SMOKE**: goes by inself _(you can modify the values yourself)_
