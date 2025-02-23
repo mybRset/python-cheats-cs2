@@ -1,21 +1,26 @@
 # CS2 CHEATS
-made in python
+Made in Python
 
 ## _Warning_
-This is for **education purposes only**. Please use this script in a safe environement. **_Be careful!_** these scripts may not always be undetectable to VAC, preferabily do not use them on your main account.
+This is for **educational purposes only**. Please use this script in a **safe environment**. **_Be careful!_** These scripts may not always be undetectable to VAC. It is **strongly recommended** that you **do not use them on your main account**.
 
 ## Tutorial
-1. Download _requests_, _pymem_ and _pywin32_ : 
-   ```pip install requests```
-   ``` pip install pymem ```
-   ``` pip install pywin32 ```
-3. Download any [script](https://github.com/mybRset/python-cheats-cs2) you want
-4. Open cs2
-5. Run the script (eg. bhop) in the terminal by running ``` py bhop.py ```_(you might need to redirect your terminal to the right folder)_
-6. Now, enjoy you cheats!
+1. Install the required dependencies:
+   ```bash
+   pip install requests pymem pywin32
+   ```
+2. Download any [script](https://github.com/mybRset/python-cheats-cs2) you want from the repository.
+3. Open CS2.
+4. Run the script (e.g., bhop) in the terminal by running:
+   ```bash
+   py bhop.py
+   ```
+   _Note: You may need to navigate to the script's directory before running it in the terminal._
+   
+5. Now, enjoy your cheats!
 
-### Use
-**BHOP**: while holding the _spacebar_ _(I recomend using scrollwheeldown for jumping)_
-**TRIGGERBOT**: while holding _right mouse button_
-**GLOW_ESP**: toggle with _F9_
+### How to Use
+- **BHOP**: While holding the _spacebar_ (or use _scroll wheel down_ for jumping).
+- **TRIGGERBOT**: While holding the _right mouse button_.
+- **GLOW_ESP**: Toggle with the _F9_ key.
 
