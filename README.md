@@ -24,3 +24,4 @@ This is for **educational purposes only**. Please use this script in a **safe en
 - **TRIGGERBOT**: While holding the _right mouse button_.
 - **GLOW_ESP**: Toggle with the _F9_ key.
 - **ANTI_FLASH_SMOKE**: goes by inself _(you can modify the values yourself)_
+- **SKINCHANGER**: I chose a few liked skins from the community, don't come to me crying because your skin isn't the one I chose.
